@@ -10,6 +10,10 @@ public class Radio {
         return tune;
     }
 
+    public void setTune(String tune){
+        this.tune = tune;
+    }
+
 
 
 }

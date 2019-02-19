@@ -3,13 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="ffda4a69-2f5a-44b1-8c2a-0282d5bc360c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/CDPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/CDPlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/CasetteDeck.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/CasetteDeck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/Component.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/Component.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/RecordDeck.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/RecordDeck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/test/java/CDPlayerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/test/java/CDPlayerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/test/java/CasetteDeckTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/test/java/CasetteDeckTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/test/java/RecordDeckTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/test/java/RecordDeckTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../interfaces/interfaces_start_point/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../interfaces/interfaces_start_point/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/Radio.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/Radio.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +16,7 @@
     <session id="-685740791">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -75,7 +71,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="7" y="28" width="1371" height="777" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
