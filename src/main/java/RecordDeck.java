@@ -1,12 +1,12 @@
-public class RecordDeck {
+public class RecordDeck extends Component {
 
     private String make;
     private String model;
     private int playSpeed;
 
 
-
     public RecordDeck(String make, String model){
+        super();
         this.make = make;
         this.model = model;
         this.playSpeed = 75;

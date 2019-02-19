@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="ffda4a69-2f5a-44b1-8c2a-0282d5bc360c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/test/java/RadioTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/test/java/RadioTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/RecordDeck.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/RecordDeck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/RecordDeckTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/test/java/RecordDeckTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -69,6 +70,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="7" y="28" width="1371" height="777" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />

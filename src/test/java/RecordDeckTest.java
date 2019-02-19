@@ -27,4 +27,16 @@ public class RecordDeckTest {
         assertEquals(75, recorddeck.getPlaySpeed());
     }
 
+    @Test
+    public void canIncreaseVolume(){
+        recorddeck.changeVolume(1);
+        assertEquals(11, recorddeck.getVolume());
+    }
+
+    @Test
+    public void canChangeQuality(){
+        recorddeck.setQuality("mono");
+        assertEquals("mono", recorddeck.getQuality());
+    }
+
 }
