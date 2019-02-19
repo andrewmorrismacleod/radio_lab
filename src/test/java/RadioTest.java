@@ -13,7 +13,7 @@ public class RadioTest {
     }
 
     @Test
-    public void hasSation(){
+    public void hasStation(){
         assertEquals("Radio 1 FM", radio.getTune());
     }
 
