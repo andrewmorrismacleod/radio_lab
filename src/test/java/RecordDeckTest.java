@@ -39,4 +39,10 @@ public class RecordDeckTest {
         assertEquals("mono", recorddeck.getQuality());
     }
 
+    @Test
+    public void canChangeSpeed(){
+        recorddeck.setPlaySpeed(80);
+        assertEquals(80, recorddeck.getPlaySpeed());
+    }
+
 }

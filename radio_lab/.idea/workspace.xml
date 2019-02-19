@@ -3,7 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="ffda4a69-2f5a-44b1-8c2a-0282d5bc360c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/CDPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/CDPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/CasetteDeck.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/CasetteDeck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/Component.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/Component.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../src/main/java/RecordDeck.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/RecordDeck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/CDPlayerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/test/java/CDPlayerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/CasetteDeckTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/test/java/CasetteDeckTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../src/test/java/RecordDeckTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/test/java/RecordDeckTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />

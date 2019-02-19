@@ -3,7 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="80dd82bc-b4d9-4c50-ae78-f1103c466ecc" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/CDPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/main/java/CDPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/CasetteDeck.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/main/java/CasetteDeck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/Component.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/main/java/Component.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../src/main/java/RecordDeck.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/main/java/RecordDeck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/CDPlayerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/test/java/CDPlayerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/CasetteDeckTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/test/java/CasetteDeckTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../src/test/java/RecordDeckTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/test/java/RecordDeckTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -525,7 +530,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550576833592" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550577554564" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
